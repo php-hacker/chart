@@ -1,2 +1,2 @@
 # chart
-Demo Chart with CanvasJS
+Demo Chart with PHP
